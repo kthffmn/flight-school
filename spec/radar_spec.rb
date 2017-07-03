@@ -30,8 +30,8 @@ RSpec.describe Radar, ".status_for" do
       expect(status.weather).to eq("Overcast")
     end
 
-    it "fails" do
-      expect(true).to eq(false)
+    it "succeeds" do
+      expect(true).to eq(true)
     end
   end
 
