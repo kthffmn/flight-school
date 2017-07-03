@@ -1,0 +1,8 @@
+pairs:
+  kh: Katie Hoffman
+  pw: Paul Weinger
+email:
+  prefix: pair
+  domain: pivotal.io
+  no_solo_prefix: true
+global: false
